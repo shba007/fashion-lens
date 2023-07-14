@@ -1,0 +1,21 @@
+{
+  "name": "blood-link",
+  "version": "0.2.0",
+  "private": true,
+  "engines": {
+    "node": "^18.16.0"
+  },
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "clean": "nuxt clean"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.16.19",
+    "nuxt": "^3.6.2"
+  }
+}
